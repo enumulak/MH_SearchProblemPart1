@@ -1,0 +1,7 @@
+C:\Users\enumu\source\repos\MH_SearchProblemPart1\MH_SearchProblemPart1\bin\Debug\MH_SearchProblemPart1.exe.config
+C:\Users\enumu\source\repos\MH_SearchProblemPart1\MH_SearchProblemPart1\bin\Debug\MH_SearchProblemPart1.exe
+C:\Users\enumu\source\repos\MH_SearchProblemPart1\MH_SearchProblemPart1\bin\Debug\MH_SearchProblemPart1.pdb
+C:\Users\enumu\source\repos\MH_SearchProblemPart1\MH_SearchProblemPart1\obj\Debug\MH_SearchProblemPart1.csprojAssemblyReference.cache
+C:\Users\enumu\source\repos\MH_SearchProblemPart1\MH_SearchProblemPart1\obj\Debug\MH_SearchProblemPart1.csproj.CoreCompileInputs.cache
+C:\Users\enumu\source\repos\MH_SearchProblemPart1\MH_SearchProblemPart1\obj\Debug\MH_SearchProblemPart1.exe
+C:\Users\enumu\source\repos\MH_SearchProblemPart1\MH_SearchProblemPart1\obj\Debug\MH_SearchProblemPart1.pdb
